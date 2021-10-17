@@ -1,0 +1,6 @@
+This iis Chat application
+
+Emoji
+Type option
+colors
+
