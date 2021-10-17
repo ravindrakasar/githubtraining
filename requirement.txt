@@ -4,3 +4,6 @@ Emoji
 Type option
 colors
 
+dark
+
+video 
